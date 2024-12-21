@@ -1,1 +1,1 @@
-# area-no.-of.-stars
+# area=no.of.stars
